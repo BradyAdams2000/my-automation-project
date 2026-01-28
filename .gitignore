@@ -1,0 +1,17 @@
+# Temporary files
+*.tmp
+*.log
+*.swp
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Files
+.env
+.env.local
+
+# Output Directories
+output/
+logs/
