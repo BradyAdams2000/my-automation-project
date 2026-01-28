@@ -15,9 +15,7 @@ cd my-automation-project
 ```
 
 ### 2. Create Branch
-```
 
-```
 ```bash
 git checkout-b feature/your-feature-name
 ```
