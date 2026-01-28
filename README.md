@@ -22,3 +22,6 @@ chmod +x *.sh
 ```bash
 ./monitor.sh
 ```
+
+## License
+MIT
