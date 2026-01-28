@@ -62,3 +62,8 @@ Found a bug? Please create an issue with:
 - Steps to reproduce
 - Expected vs actual behavior
 - System information
+## Monitoring Features
+
+- Real-time system metrics
+- Disk space alerts
+- Customizable thresholds
