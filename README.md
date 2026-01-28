@@ -54,4 +54,11 @@ Pull requests welcome! Please ensure:
 - Scripts follow shellcheck guidelines
 - Commits use conventional commit format
 - Documentation is updated
-EOF 
+
+## Bug Reports
+
+Found a bug? Please create an issue with:
+- Description of the problem
+- Steps to reproduce
+- Expected vs actual behavior
+- System information
