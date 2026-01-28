@@ -1,6 +1,6 @@
 # My Automation Project
 
-![License](https://img.shields.io.badge/license-MIT-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
 ![Bash](https://img.shields.io/badge/bash-5..0+-green)
 
 A professional collection of automation scripts for system administration and DevOps tasks
